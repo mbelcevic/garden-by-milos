@@ -3,6 +3,12 @@
 ---
 
 
+---
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [contact](https://mbelcevic.me/Contact.html)
+
+---
+
+
 ### 01: How to live a happy life
 - What does a happiness mean to me?
 - How can I make sure I live a happy life?
