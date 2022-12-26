@@ -4,7 +4,17 @@
 
 
 [[garden by Milos/note-making and second brain -🚧TBD\|note-making and second brain -🚧TBD]]
+
 [[garden by Milos/books garden-🚧TBD\|books garden-🚧TBD]]
 
+WIP / should look into / want to work on:
+ -   PRD as an agile, collaborative artefact / tool versus "old-fashioned" PRD
+ -   Public roadmaps and collab
+ -   super-brief history of coffee and guide to espresso-based drinks
+ -   Interstitial journaling
 
-On [my Goodreads Profile](https://www.goodreads.com/author/show/15483285.Milo_Bel_evi_), you can find all books > [I've read](https://www.goodreads.com/review/list/16183477?shelf=read), > [I'm reading](https://www.goodreads.com/review/list/16183477?shelf=currently-reading), or > [want to read](https://www.goodreads.com/review/list/16183477?order=d&shelf=to-read&sort=date_added)
+WIP Talks:
+- Game of (Product) Thrones - Survival framework for less death and more success
+- API Product Management 101: Survival Guide for Non-Technical PMs
+  (or: How to join API (Justice) League and save the planet)
+
