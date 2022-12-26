@@ -3,7 +3,13 @@
 ---
 
 
-----
+---
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [contact](https://mbelcevic.me/Contact.html)
+
+---
+
+
+
 note:
 ### [[garden by Milos/my 12 questions\|my 12 questions]]
 
@@ -13,6 +19,7 @@ These are my 12 favorite and most important questions.
 *Read the full note [[garden by Milos/my 12 questions\|my 12 questions]]*
 
 ----
+
 Blog post:
 ### [3 Interesting Examples of Everyday Agility Beyond Tech](https://blog.mbelcevic.me/everyday-agility-beyond-tech/)
 
@@ -23,8 +30,6 @@ This is why I wanted to share 3 interesting, non-tech examples of everyday Agili
 
 ----
 
-
-----
 Blog post:
 ### [Learning to Learn: 5 Tips to Master Any Product Management Domain](# Learning to Learn: 5 Tips to Master Any Product Management Domain)
 
@@ -35,7 +40,6 @@ _[Read the full article on Toptal](https://www.toptal.com/product-managers/produ
 
 ----
 
-----
 Blog post:
 ### [Making your Personal Kanban board in Roam Research](https://blog.mbelcevic.me/making-personal-kanban-in-roam-research/)
 Both Personal Kanban and Roam Research have changed my life in many ways, and this is a blog post on combining the two. This is not a blog post about Roam or Personal Kanban themselves, but specifically about building your own Personal Kanban Board within Roam. About the upsides, downsides, and some tips.
