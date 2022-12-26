@@ -4,6 +4,15 @@
 
 
 ----
+note:
+### [[garden by Milos/my 12 questions\|my 12 questions]]
+
+Richard Feynman, a Nobel Prize winning physicist and unique, multi-faceted individual (drummer, raconteur, teacher, scientist) had a framework called 12 Questions (or 12 Problems), which has become a heart of the work of many note-makers, digital gardeners, Second Brain builders, and curious people around the world. 
+
+These are my 12 favorite and most important questions.
+*Read the full note [[garden by Milos/my 12 questions\|my 12 questions]]*
+
+----
 Blog post:
 ### [3 Interesting Examples of Everyday Agility Beyond Tech](https://blog.mbelcevic.me/everyday-agility-beyond-tech/)
 
