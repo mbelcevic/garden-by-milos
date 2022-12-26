@@ -42,6 +42,14 @@ explore here:
 ### - [[garden by Milos/about my garden(ing)\|about my garden(ing)]]
 
 
+----
 
+#### 👨🏻‍🌾 What's a digital garden? ✂️🌳​
 
+*Contextually speaking, it's an online space to share, nurture and shape ideas.* 
 
+*Practically speaking, it's something between private notes and blog, used for learning and building in public.*
+
+*This is where I learn in public, plant ideas, and see them grow into something exciting.* 
+
+Learn more: [[garden by Milos/digital garden\|digital garden]] 
