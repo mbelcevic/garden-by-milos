@@ -5,6 +5,11 @@
 
 🚧TBD: work in progress 
 
+---
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [contact](https://mbelcevic.me/Contact.html)
+
+---
+
 _I will be making collections of books I liked, with comments and info on each book (e.g. Product Books, Personal Development Books etc.), and you will be able to find them in this space_
 
 In the meantime:
