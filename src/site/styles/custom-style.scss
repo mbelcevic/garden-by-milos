@@ -1,54 +1,59 @@
 body {
-    background: #0E1117;
-    color: white;
-    font-family: 'Roboto', sans-serif;
+    background-color: #222222;  /* gray-black background */
+    color: #ffffff;  /* white text */
+    font-family: 'Roboto',sans-serif;  /* use a sans-serif font */
+    margin: 0;  /* remove default margins */
+    padding: 0;  /* remove default padding */
 	
      	.content {
 	  font-size: 18px;
 	  font-family: 'Roboto',sans-serif;
-	  color: white;
-	  background: #0E1117;
+	  color: #ffffff;
+	  background: #222222;
     	}
-    h1 {
-    color: white;
-    background: #0E1117;
+	
+	a {
+	 color: #bbbbbb;  /* gray hyperlinks */
+	 text-decoration: none;  /* remove underline from hyperlinks */
+}
+
+	a:hover {
+ 	 color: #ffffff;  /* change hyperlink color on hover */
+ 	 text-decoration: underline;  /* add underline on hover */
+}
+	
+h1 {
+  font-size: 2em;  /* double the size of the body font for headings */
+  margin: 0.67em 0;  /* add some space above and below headings */
 }
 
 h2 {
-    color: white;
-     background: #0E1117;
+  font-size: 1.5em;  /* 1.5 times the size of the body font for headings */
+  margin: 0.83em 0;  /* add some space above and below headings */
 }
 
 h3 {
-    color: white;
-	background: #0E1117;
+  font-size: 1.17em;  /* 1.17 times the size of the body font for headings */
+  margin: 1em 0;  /* add some space above and below headings */
 }
 
 h4 {
-    color: white;
-    background: #0E1117;
-}
-	
-	.theme-dark {
-    background: #0E1117;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-}
-	
-	
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-	background: #0E1117;
+  font-size: 1em;  /* same size as the body font for headings */
+  margin: 1.33em 0;  /* add some space above and below headings */
 }
 
+h5 {
+  font-size: 0.83em;  /* 0.83 times the size of the body font for headings */
+  margin: 1.67em 0;  /* add some space above and below headings */
+}
 
-.font-bg {
-    font-size: 92px;
-	background: #0E1117;
+h6 {
+  font-size: 0.67em;  /* 0.67 times the size of the body font for headings */
+  margin: 2.33em 0;  /* add some space above and below headings */
+}
+
+p {
+  margin: 1em 0;  /* add some space above and below paragraphs */
 }
 
 }
