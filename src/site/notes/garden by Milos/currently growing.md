@@ -8,8 +8,6 @@
 
 ---
 
-*These are in-progress notes, ideas and texts. More polished content is available in [[garden by Milos/harvest ready\|harvest ready]]*
-
 [[garden by Milos/note-making and second brain -🚧TBD\|note-making and second brain -🚧TBD]]
 
 [[garden by Milos/books garden-🚧TBD\|books garden-🚧TBD]]
