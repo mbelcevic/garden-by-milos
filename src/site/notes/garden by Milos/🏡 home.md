@@ -3,7 +3,7 @@
 ---
 
 Hi 👋
-Welcome to my [[garden by Milos/digital garden\|garden by Milos/digital garden]].
+Welcome to my [[garden by Milos/digital garden\|digital garden]].
 
 explore here:
 
