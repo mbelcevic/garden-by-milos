@@ -3,6 +3,15 @@ body {
     color: white;
     font-family: 'Roboto', sans-serif;
 	
+	:root{
+    --background-primary: #0E1117;
+    --background-secondary: #161B22;
+    --text-normal: #dcddde;
+    --text-accent: rgb(97, 186, 245);
+    --file-margins: 32px;
+}
+	
+	
      	.content {
 	  font-size: 18px;
 	  font-family: 'Roboto',sans-serif;
