@@ -31,7 +31,7 @@ This is why I wanted to share 3 interesting, non-tech examples of everyday Agili
 ----
 
 Blog post:
-### [Learning to Learn: 5 Tips to Master Any Product Management Domain](https://www.toptal.com/product-managers/product-management/product-management-domain)
+### [Learning to Learn: 5 Tips to Master Any Product Management Domain](# Learning to Learn: 5 Tips to Master Any Product Management Domain)
 
 As a product manager, you need to be able to quickly gain an understanding of the key aspects of a new field in order to serve your company. While learning on the job is inevitable, you will likely need basic domain knowledge during the application or interview stage to land the role. Even when this isn’t the case, you’ll still want to have the skills to lead your team and effectively shape products from day one.
 
