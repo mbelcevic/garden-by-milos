@@ -7,29 +7,48 @@ body {
 	  font-size: 18px;
 	  font-family: 'Roboto',sans-serif;
 	  color: white;
-	  background: #0E1117
+	  background: #0E1117;
     	}
     h1 {
     color: white;
-    background: #0E1117
+    background: #0E1117;
 }
 
 h2 {
     color: white;
+     background: #0E1117;
 }
 
 h3 {
     color: white;
+	background: #0E1117;
 }
 
 h4 {
     color: white;
+    background: #0E1117;
 }
 	
 	.theme-dark {
-    background: #121212;
+    background: #0E1117;
     color: white;
     font-family: 'Roboto', sans-serif;
+}
+	
+	
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+	background: #0E1117;
+}
+
+
+.font-bg {
+    font-size: 92px;
+	background: #0E1117;
 }
 
 }
