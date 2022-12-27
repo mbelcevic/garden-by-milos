@@ -3,18 +3,30 @@
 ---
 
 
-Hi 👋
-Welcome to my [[garden by Milos/digital garden\|digital garden]].
+#### 👨🏻‍🌾 What's a digital garden? ✂️🌳​
 
-explore here:
+*Contextually speaking, it's an online space to share, nurture and shape ideas.* 
 
-[[garden by Milos/currently growing\|currently growing]] <- early & in progress
+*Practically speaking, it's something between private notes and blog, used for learning and building in public.*
 
-[[garden by Milos/harvest ready\|harvest ready]] <- mature & polished content
+*This is where I learn in public, plant ideas, and see them grow into something exciting.*
+
+----
+
+# start here 👇
+
+### [[garden by Milos/currently growing\|currently growing]] <- early & in progress
+
+### [[garden by Milos/harvest ready\|harvest ready]] <- mature & polished content
+
+# 👆 start here
 
 ---
 
-# What  I'm 'planting' about  🌱 
+
+
+
+# What am I 'planting' about?  🌱 
 
 ### **1. Building products**
 
@@ -36,20 +48,41 @@ explore here:
 
 ----
 
-# 💡 Learn more
 
-### - [[garden by Milos/About me 👷\|About me 👷]] 
-### - [[garden by Milos/about my garden(ing)\|about my garden(ing)]]
+## 💡 Learn more 💡
 
+### About me 👷
 
-----
+👋 My name is Milos. 
 
-#### 👨🏻‍🌾 What's a digital garden? ✂️🌳​
+I'm a (product) maker & digital gardener.
+And Haribo brand ambassador wannabe 🐻
+fluent: 🇺🇸 🇳🇴 🇷🇸 
+Pronouns are he/they 🏳️‍🌈 
 
-*Contextually speaking, it's an online space to share, nurture and shape ideas.* 
+For everything else, check mbelcevic.me/About.html
 
-*Practically speaking, it's something between private notes and blog, used for learning and building in public.*
+### About my garden(ing)... 🌱➡🌳
 
-*This is where I learn in public, plant ideas, and see them grow into something exciting.* 
+I plant seeds (open topics) on the go, for the things I would like to explore publically and work on in here.
 
-Learn more: [[garden by Milos/digital garden\|digital garden]] 
+It's usually a bit less messy than my private note-making, and also more focused / less noisy.
+
+Digital garden(ing) and private note-making influence each other a lot; and likely lead to additional stuff that's more polished, such as articles, blog posts and other content.
+
+Learn here about my private [[garden by Milos/note-making and second brain -🚧TBD\|note-making and second brain -🚧TBD]] process.
+
+## ...and gardening tools ⛏️
+
+**For my Digital Garden** I use:
+
+[Obsidian.md](https://obsidian.md/) with [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) plugin by [ole.dev](https://ole.dev/).
+
+For my private note-making I use:
+
+[Obsidian.md](https://obsidian.md/) with 2 vaults: 1 for private + freelance projects; 1 for my full-time job.
+
+[Apple notes](https://support.apple.com/en-us/HT205773) for quick capture on the go; which I then refine and put into one of the vaults as appropriate
+
+[Goodreads](https://www.goodreads.com/author/show/15483285.Milo_Bel_evi_) to keep track over the books I have read, and want to read
+
