@@ -3,7 +3,7 @@
 ---
 
 Hi 👋
-Welcome to my [[garden by Milos/garden by Milos\|garden by Milos]].
+Welcome to my [[garden by Milos/digital garden\|garden by Milos/digital garden]].
 
 explore here:
 
@@ -51,4 +51,4 @@ explore here:
 
 *This is where I learn in public, plant ideas, and see them grow into something exciting.* 
 
-Learn more: [[garden by Milos/garden by Milos\|garden by Milos]] 
+Learn more: [[garden by Milos/digital garden\|garden by Milos/digital garden]] 
