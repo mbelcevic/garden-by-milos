@@ -1,6 +1,6 @@
 :root{
     --background-primary: #0E1117;
-    --background-secondary: #161B22;
+    --background-secondary: #0F1117;
     --text-normal: #dcddde;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
@@ -23,12 +23,12 @@ body {
 	
 	
 	a {
-  color: #bbbbbb;  /* gray hyperlinks */
+  color: #001C56;  /* dark blue hyperlinks */
   text-decoration: none;  /* remove underline from hyperlinks */
 }
 
 a:hover {
-  color: #ffffff;  /* change hyperlink color on hover */
+  color: #001C56;  /* change hyperlink color on hover */
   text-decoration: underline;  /* add underline on hover */
 }
 	
