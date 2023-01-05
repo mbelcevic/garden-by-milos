@@ -11,7 +11,7 @@
 
 
 Hi 👋
-Welcome to my [[garden by Milos/Harvest ready/digital garden\|garden by Milos/Harvest ready/digital garden]].
+Welcome to my [[garden by Milos/Harvest ready/digital garden\|digital garden]].
 
 explore here:
 
