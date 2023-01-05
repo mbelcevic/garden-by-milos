@@ -2,16 +2,22 @@
 {"dg-publish":true,"permalink":"/garden-by-milos/home/","tags":"gardenEntry"}
 ---
 
+
+
+---
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
+
+---
+
+
 Hi 👋
-Welcome to my [[garden by Milos/digital garden\|digital garden]].
+Welcome to my [[garden by Milos/Harvest ready/digital garden\|garden by Milos/Harvest ready/digital garden]].
 
 explore here:
 
 [[garden by Milos/currently growing\|currently growing]] <- early & in progress
 
 [[garden by Milos/harvest ready\|harvest ready]] <- mature & polished content
-
-### *2023 challenge check -> I'm [[garden by Milos/writing a book\|writing a book]]!* 📚
 
 ----
 
@@ -33,14 +39,14 @@ explore here:
 
 ### **4. Random sparks of curiosity**
 
-**musings on [[garden by Milos/random things that interest me\|random things that interest me]] at a given time**
+**musings on [[garden by Milos/Currently growing/🪴 random things that interest me 🪴\|🪴 random things that interest me 🪴]] at a given time**
 
 ----
 
 # 💡 Learn more
 
 ### - [[garden by Milos/About me 👷\|About me 👷]] 
-### - [[garden by Milos/about my garden(ing)\|about my garden(ing)]]
+### - [[garden by Milos/Harvest ready/about my garden(ing)\|about my garden(ing)]]
 
 
 ----
@@ -53,4 +59,4 @@ explore here:
 
 *This is where I learn in public, plant ideas, and see them grow into something exciting.* 
 
-Learn more: [[garden by Milos/digital garden\|digital garden]] 
+Learn more: [[garden by Milos/Harvest ready/digital garden\|garden by Milos/Harvest ready/digital garden]] 
