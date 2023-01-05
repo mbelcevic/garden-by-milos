@@ -11,9 +11,9 @@ explore here:
 
 [[garden by Milos/harvest ready\|harvest ready]] <- mature & polished content
 
-### 2023 challenge check -> I'm [[garden by Milos/writing a book\|writing a book]]! 📚
+### *2023 challenge check -> I'm [[garden by Milos/writing a book\|writing a book]]!* 📚
 
----
+----
 
 # What  I'm 'planting' about  🌱 
 
