@@ -59,4 +59,4 @@ explore here:
 
 *This is where I learn in public, plant ideas, and see them grow into something exciting.* 
 
-Learn more: [[garden by Milos/Harvest ready/digital garden\|garden by Milos/Harvest ready/digital garden]] 
+Learn more: [[garden by Milos/Harvest ready/digital garden\|digital garden]] 
