@@ -4,15 +4,28 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [contact](https://mbelcevic.me/Contact.html)
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
 
 ---
 
-*These are in-progress notes, ideas and texts. More polished content is available in [[garden by Milos/harvest ready\|harvest ready]]*
+*Below are my in-progress notes, ideas and texts. 
+Links to in-progress content are always marked with `🪴`. 
+More polished content is available in [[garden by Milos/harvest ready\|harvest ready]]*.
 
-[[garden by Milos/note-making and second brain -🚧TBD\|note-making and second brain -🚧TBD]]
 
-[[garden by Milos/books garden-🚧TBD\|books garden-🚧TBD]]
+# 1) Main project of 2023: **I'm [[garden by Milos/Currently growing/🪴 writing a book 🪴\|🪴 writing a book 🪴]]!** 
+
+## 2) [[garden by Milos/Currently growing/🪴 books garden 🪴\|🪴 books garden 🪴]]
+
+### 3) [[garden by Milos/Currently growing/🪴 Using Obsidian Canvas to visually organize knowledge (and write a book) 🪴\|🪴 Using Obsidian Canvas to visually organize knowledge (and write a book) 🪴]]
+
+#### 4) [[garden by Milos/Currently growing/🪴 Working on your Digital Garden in Obsidian 🪴\|🪴 Working on your Digital Garden in Obsidian 🪴]]
+
+##### 5) [[garden by Milos/Currently growing/🪴 note-making and second brain 🪴\|🪴 note-making and second brain 🪴]]
+
+
+
+---
 
 WIP / should look into / want to work on:
  -   PRD as an agile, collaborative artefact / tool versus "old-fashioned" PRD
