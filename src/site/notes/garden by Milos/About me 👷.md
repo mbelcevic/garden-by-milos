@@ -20,8 +20,8 @@ Pronouns are he/they.
 ○ Senior Product Manager @ [Clarivate](https://clarivate.com/ "Clarivate Homepage") & Product Manager @ [Toptal](https://topt.al/G6cVr7 "Milos Belcevic on Toptal")  
 ○ Helped build, re-shape and scale numerous digital products  
 ○ Had my own publishing house once, and also 2-3 failed startups  
-○ Fluent in Norwegian, English and Serbian  
 ○ Translated a few books, held a TEDx Talk 
+○ Fluent in Norwegian, English and Serbian  
 ○ In 2023, I'm [[garden by Milos/Currently growing/🪴 writing a book 🪴\|🪴 writing a book 🪴]]
 ○ Based in [Belgrade, Serbia](https://www.google.com/search?q=belgrade+serbia)  
 ○ Working remotely and traveling around
