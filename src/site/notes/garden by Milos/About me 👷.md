@@ -5,7 +5,7 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [contact](https://mbelcevic.me/Contact.html)
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
 
 ---
 
@@ -21,7 +21,8 @@ Pronouns are he/they.
 ○ Helped build, re-shape and scale numerous digital products  
 ○ Had my own publishing house once, and also 2-3 failed startups  
 ○ Fluent in Norwegian, English and Serbian  
-○ Translated a few books, held a TEDx Talk  
+○ Translated a few books, held a TEDx Talk 
+○ In 2023, I'm [[garden by Milos/Currently growing/🪴 writing a book 🪴\|🪴 writing a book 🪴]]
 ○ Based in [Belgrade, Serbia](https://www.google.com/search?q=belgrade+serbia)  
 ○ Working remotely and traveling around
 
