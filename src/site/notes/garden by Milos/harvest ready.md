@@ -4,19 +4,18 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [contact](https://mbelcevic.me/Contact.html)
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
 
 ---
 
 
-
 note:
-### [[garden by Milos/my 12 questions\|my 12 questions]]
+### [[garden by Milos/Harvest ready/my 12 questions\|my 12 questions]]
 
 Richard Feynman, a Nobel Prize winning physicist and unique, multi-faceted individual (drummer, raconteur, teacher, scientist) had a framework called 12 Questions (or 12 Problems), which has become a heart of the work of many note-makers, digital gardeners, Second Brain builders, and curious people around the world. 
 
 These are my 12 favorite and most important questions.
-*Read the full note [[garden by Milos/my 12 questions\|my 12 questions]]*
+*Read the full note [[garden by Milos/Harvest ready/my 12 questions\|my 12 questions]]*
 
 ----
 
@@ -37,6 +36,20 @@ As a product manager, you need to be able to quickly gain an understanding of th
 
 This means that being a fast and curious learner is one of the most important assets you can have.
 _[Read the full article on Toptal](https://www.toptal.com/product-managers/product-management/product-management-domain)_
+
+----
+
+Note:
+### [[garden by Milos/Harvest ready/digital garden\|digital garden]]
+
+What's a digital garden, resources and examples.
+
+
+----
+Note:
+### [[garden by Milos/Harvest ready/about my garden(ing)\|about my garden(ing)]]
+
+About my digital garden, tools and processes.
 
 ----
 
