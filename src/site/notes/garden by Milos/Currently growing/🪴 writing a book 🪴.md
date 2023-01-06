@@ -10,7 +10,7 @@
 
 
 
-## Are there tools, principles, and mental models from good product practices that work nicely for life?  
+## What are the elements of good product practice that could work nicely for life?  
 
 I want to learn, experiment, and write about this, with the goal of finishing a book on the topic in 2023.
 
