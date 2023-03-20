@@ -17,7 +17,7 @@ More polished content is available in [[garden by Milos/harvest ready\|harvest r
 
 ## 2) [[garden by Milos/Currently growing/🪴 books garden 🪴\|🪴 books garden 🪴]]
 
-### 3) [[garden by Milos/Currently growing/🪴 Using Obsidian Canvas to visually organize knowledge (and write a book) 🪴\|🪴 Using Obsidian Canvas to visually organize knowledge (and write a book) 🪴]]
+### 3) [[garden by Milos/Currently growing/🪴 visually organize knowledge (and write a book) 🪴\|🪴 visually organize knowledge (and write a book) 🪴]]
 
 #### 4) [[garden by Milos/Currently growing/🪴 Working on your Digital Garden in Obsidian 🪴\|🪴 Working on your Digital Garden in Obsidian 🪴]]
 
