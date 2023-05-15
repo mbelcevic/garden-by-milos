@@ -8,7 +8,6 @@
 
 ---
 
-
 note:
 ### [[garden by Milos/Harvest ready/my 12 questions\|my 12 questions]]
 
