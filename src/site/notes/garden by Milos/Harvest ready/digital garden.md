@@ -46,3 +46,10 @@ Ness Labs is run by [Anne-Laure Le Cunff](https://anne-laure.net/#), and it's a 
 
 #### - [Digital gardens let you cultivate your own little bit of the internet (MIT Technology Review)](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 
+
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
