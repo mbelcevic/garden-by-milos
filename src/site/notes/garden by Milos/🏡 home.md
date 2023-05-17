@@ -60,3 +60,10 @@ explore here:
 *This is where I learn in public, plant ideas, and see them grow into something exciting.* 
 
 Learn more: [[garden by Milos/Harvest ready/digital garden\|digital garden]] 
+
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
