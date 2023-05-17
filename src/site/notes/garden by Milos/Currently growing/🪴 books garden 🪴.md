@@ -20,3 +20,10 @@ On [my Goodreads Profile](https://www.goodreads.com/author/show/15483285.Milo_Be
 -> [I'm reading](https://www.goodreads.com/review/list/16183477?shelf=currently-reading)
 -> [want to read](https://www.goodreads.com/review/list/16183477?order=d&shelf=to-read&sort=date_added)
 
+
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
