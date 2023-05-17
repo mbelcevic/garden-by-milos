@@ -27,3 +27,9 @@ Pronouns are he/they.
 ○ Working remotely and traveling around
 
 For everything else, check out [mbelcevic.me](https://mbelcevic.me/) or [my LinkedIn](https://www.linkedin.com/in/mbelcevic/).
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
