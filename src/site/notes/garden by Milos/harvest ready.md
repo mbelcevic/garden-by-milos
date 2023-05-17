@@ -59,3 +59,10 @@ Both Personal Kanban and Roam Research have changed my life in many ways, and th
 *[Read the full blog post](https://blog.mbelcevic.me/making-personal-kanban-in-roam-research/)*
 
 ----
+
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
