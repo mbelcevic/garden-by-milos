@@ -14,3 +14,9 @@
 - **JavaScript**
 - **Low- / no-code**; **automation** through Zapier or n8n
 - **Note-taking & note-making**, digital gardening, [[garden by Milos/Currently growing/🪴 writing a book 🪴\|🪴 writing a book 🪴]]
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
