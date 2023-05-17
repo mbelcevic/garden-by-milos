@@ -35,6 +35,14 @@ WIP / should look into / want to work on:
 
 WIP Talks:
 - Game of (Product) Thrones - Survival framework for less death and more success
-- API Product Management 101: Survival Guide for Non-Technical PMs
-  (or: How to join API (Justice) League and save the planet)
+	- Update: Held this talk at [Product-Led Summit Amsterdam in May 2023](https://world.productledalliance.com/location/amsterdam/speaker/milosbelcevic)
 
+- API Product Management 101: Survival Guide for Non-Technical PMs
+	- Update: Held this talk at [ACE! Conference in Krakow in May 2023](https://aceconf.com/speaker/388/milos-belcevic)
+
+
+
+
+
+----
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
