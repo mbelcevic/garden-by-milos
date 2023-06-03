@@ -42,39 +42,39 @@ I suggest you start with intro books, and then choose books from good practices.
 ### Intro
 
 The Product Book - How to Become a Great Product Manager
-free book: https://productschool.com/resources/ebooks/the-product-book
+free book: [LINK](https://productschool.com/resources/ebooks/the-product-book)
 
 Build - An Unorthodox Guide to Making Things Worth Making
-book: https://www.goodreads.com/book/show/59696349-build
+book: [LINK](https://www.goodreads.com/book/show/59696349-build)
 
 Strong Product People
-book: https://www.goodreads.com/book/show/56866234-strong-product-people
+book: [LINK](https://www.goodreads.com/book/show/56866234-strong-product-people)
 
 ### Good Practices
 
 Inspired - How to Create Tech Products Customers Love
-book: https://www.goodreads.com/book/show/35249663-inspired
+book: [LINK](https://www.goodreads.com/book/show/35249663-inspired)
 
 Escaping the Build Trap
-book: https://www.goodreads.com/book/show/42611483-escaping-the-build-trap?ref=nav_sb_ss_1_23
+book: [LINK](https://www.goodreads.com/book/show/42611483-escaping-the-build-trap?ref=nav_sb_ss_1_23)
 
 Continuous Discovery Habits
-book: https://www.goodreads.com/book/show/58046715-continuous-discovery-habits
+book: [LINK](https://www.goodreads.com/book/show/58046715-continuous-discovery-habits)
 
 Scrum Product Ownership - Navigating The Forest AND The Trees
-book: https://www.goodreads.com/book/show/44566037-scrum-product-ownership
+book: [LINK](https://www.goodreads.com/book/show/44566037-scrum-product-ownership)
 
 User Stories Applied - For Agile Software Development
-book: https://www.goodreads.com/book/show/3856.User_Stories_Applied?ref=nav_sb_ss_1_53
+book: [LINK](https://www.goodreads.com/book/show/3856.User_Stories_Applied?ref=nav_sb_ss_1_53)
 
 Lean UX - Applying Lean Principles to Improve User Experience
-book: https://www.goodreads.com/book/show/13436116-lean-ux?ref=nav_sb_ss_1_61
+book: [LINK](https://www.goodreads.com/book/show/13436116-lean-ux?ref=nav_sb_ss_1_61)
 
 Product Roadmaps Relaunched - How to Set Direction while Embracing Uncertainty
-book: https://www.goodreads.com/book/show/36507075-product-roadmaps-relaunched?ref=nav_sb_ss_1_78
+book: [LINK](https://www.goodreads.com/book/show/36507075-product-roadmaps-relaunched?ref=nav_sb_ss_1_78)
 
 Hooked - How to Build Habit-Forming Products
-book: https://www.goodreads.com/book/show/22668729-hooked?ref=nav_sb_ss_1_44
+book: [LINK](https://www.goodreads.com/book/show/22668729-hooked?ref=nav_sb_ss_1_44)
 
 
 
