@@ -13,7 +13,10 @@ Links to in-progress content are always marked with `🪴`.
 More polished content is available in [[garden by Milos/harvest ready\|harvest ready]]*.
 
 
-# 1) Main project of 2023: **I'm writing a book**  Edit: [I wrote the book!](https://buildyourway.me/)
+# Main project of 2023: **I'm writing a book** 
+# *Update: [I wrote the book!](https://buildyourway.me/)*
+
+# 1) New main project 2023-2024: [[garden by Milos/Currently growing/🪴 Learning Python in public 🪴\|🪴 Learning Python in public 🪴]]
 
 ## 2) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
 
@@ -31,6 +34,9 @@ More polished content is available in [[garden by Milos/harvest ready\|harvest r
 
 WIP / should look into / want to work on:
  -   PRD as an agile, collaborative artefact / tool versus "old-fashioned" PRD
+	 - Looked into this and published [a blog post on Toptal blog](https://www.toptal.com/product-managers/digital/prd-digital-product-development)
+	   
+
  -   Public roadmaps and collab
  -   super-brief history of coffee and guide to espresso-based drinks
  -   Interstitial journaling
