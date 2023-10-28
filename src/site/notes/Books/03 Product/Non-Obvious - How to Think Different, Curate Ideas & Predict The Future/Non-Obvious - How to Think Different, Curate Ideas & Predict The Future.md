@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/books/03-product/non-obvious-how-to-think-different-curate-ideas-and-predict-the-future/non-obvious-how-to-think-different-curate-ideas-and-predict-the-future/"}
 ---
 
+
 #booksummary
 Title::  [[Books/03 Product/Non-Obvious - How to Think Different, Curate Ideas & Predict The Future/Non-Obvious - How to Think Different, Curate Ideas & Predict The Future\|Non-Obvious - How to Think Different, Curate Ideas & Predict The Future]]
 Author:: [[People & Groups/Writers - Authors/Bhargava, Rohit\|Bhargava, Rohit]] 
