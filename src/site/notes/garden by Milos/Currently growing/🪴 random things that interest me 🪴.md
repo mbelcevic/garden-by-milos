@@ -13,7 +13,7 @@
 - **Using NFCs to automate stuff** in my home and around
 - **JavaScript**
 - **Low- / no-code**; **automation** through Zapier or n8n
-- **Note-taking & note-making**, digital gardening, [[garden by Milos/Currently growing/🪴 writing a book 🪴\|🪴 writing a book 🪴]]
+- **Note-taking & note-making**, digital gardening, [[garden by Milos/Old/🪴 writing a book 🪴\|🪴 writing a book 🪴]]
 
 
 
