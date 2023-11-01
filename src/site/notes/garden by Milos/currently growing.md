@@ -14,11 +14,12 @@ More polished content is available in [[garden by Milos/harvest ready\|harvest r
 
 
 # Main project of 2023: **I'm writing a book** 
-# *Update: [I wrote the book!](https://buildyourway.me/)*
+## *Update: [I wrote the book!](https://buildyourway.me/)*
 
-# 1) New main project 2023-2024: [[garden by Milos/Currently growing/🪴 Learning Python in public 🪴\|🪴 Learning Python in public 🪴]]
 
-## 2) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
+### 1) New  project 2023-2024: [[garden by Milos/Python/🪴 Learning Python in public 🪴\|🪴 Learning Python in public 🪴]]
+
+### 2) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
 
 ### 3) [[garden by Milos/Currently growing/🪴 books garden 🪴\|🪴 books garden 🪴]]
 
