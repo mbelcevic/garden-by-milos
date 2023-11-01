@@ -13,11 +13,10 @@ Links to in-progress content are always marked with `🪴`.
 More polished content is available in [[garden by Milos/harvest ready\|harvest ready]]*.
 
 
-# Main project of 2023: **I'm writing a book** 
-## *Update: [I wrote the book!](https://buildyourway.me/)*
+## 1) Main project of 2023: **I'm writing a book** 
+### *Update: [I wrote the book!](https://buildyourway.me/)*
 
 
-### 1) New  project 2023-2024: [[garden by Milos/Python/🪴 Learning Python in public 🪴\|🪴 Learning Python in public 🪴]]
 
 ### 2) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
 
