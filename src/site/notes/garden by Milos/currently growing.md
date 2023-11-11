@@ -16,17 +16,17 @@ More polished content is available in [[garden by Milos/harvest ready\|harvest r
 ## 1) Main project of 2023: **I'm writing a book** 
 ### *Update: [I wrote the book!](https://buildyourway.me/)*
 
+## 2) [[garden by Milos/Currently growing/🪴 Pseudocode poetry book\|🪴 Pseudocode poetry book]]
 
+### 3) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
 
-### 2) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
+### 4) [[garden by Milos/Currently growing/🪴 books garden 🪴\|🪴 books garden 🪴]]
 
-### 3) [[garden by Milos/Currently growing/🪴 books garden 🪴\|🪴 books garden 🪴]]
+#### 5) [[garden by Milos/Currently growing/🪴 visually organize knowledge (and write a book) 🪴\|🪴 visually organize knowledge (and write a book) 🪴]]
 
-#### 4) [[garden by Milos/Currently growing/🪴 visually organize knowledge (and write a book) 🪴\|🪴 visually organize knowledge (and write a book) 🪴]]
+#### 6) [[garden by Milos/Currently growing/🪴 Working on your Digital Garden in Obsidian 🪴\|🪴 Working on your Digital Garden in Obsidian 🪴]]
 
-#### 5) [[garden by Milos/Currently growing/🪴 Working on your Digital Garden in Obsidian 🪴\|🪴 Working on your Digital Garden in Obsidian 🪴]]
-
-##### 6) [[garden by Milos/Currently growing/🪴 note-making and second brain 🪴\|🪴 note-making and second brain 🪴]]
+##### 7) [[garden by Milos/Currently growing/🪴 note-making and second brain 🪴\|🪴 note-making and second brain 🪴]]
 
 
 
