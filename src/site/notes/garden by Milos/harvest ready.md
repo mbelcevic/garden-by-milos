@@ -15,7 +15,7 @@ book
 
 ---
 
-post:
+note:
 ### [[garden by Milos/Harvest ready/3 Interesting Examples of Everyday Agility Beyond Tech\|3 Interesting Examples of Everyday Agility Beyond Tech]]
 
 _There is a whole world of Agile beyond software, technology, and ‘typical’ environments, and Agile in a low- or non-tech context. It’s super interesting, relatable, and illustrates the Agile mindset and principles nicely – but it is not the first thing people think about when they think Agile._
