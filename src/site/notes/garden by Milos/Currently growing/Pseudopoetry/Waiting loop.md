@@ -45,3 +45,5 @@ let me wait for you for a while more
 
 
 ```
+
+back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry book\|🪴 Pseudocode poetry book]] homepage
