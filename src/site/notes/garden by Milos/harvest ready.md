@@ -10,7 +10,7 @@
 book
 ### Build Your Way - Applying Product Management to Life
 
-https://buildyourway.me/
+[https://buildyourway.me/](https://buildyourway.me/)
 
 
 ---
