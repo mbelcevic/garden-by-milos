@@ -16,7 +16,7 @@ More polished content is available in [[garden by Milos/harvest ready\|harvest r
 ## 1) Main project of 2023: **I'm writing a book** 
 ### *Update: [I wrote the book!](https://buildyourway.me/)*
 
-## 2) [[garden by Milos/Currently growing/🪴 Pseudocode poetry book\|🪴 Pseudocode poetry book]]
+## 2) [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]]
 
 ### 3) [[garden by Milos/Currently growing/🪴 Product Management Resources 🪴\|🪴 Product Management Resources 🪴]]
 
