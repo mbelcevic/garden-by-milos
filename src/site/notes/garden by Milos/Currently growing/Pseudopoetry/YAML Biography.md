@@ -26,4 +26,4 @@ dog:
 	dog_color: Black
 ```
 
-back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry book\|🪴 Pseudocode poetry book]] homepage
+back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
