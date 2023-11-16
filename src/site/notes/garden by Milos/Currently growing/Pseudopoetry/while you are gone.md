@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/garden-by-milos/currently-growing/pseudopoetry/while-you-are-gone/"}
 ---
 
+back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
 
----
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) 
 
----
+
+
 
 ```python
 
@@ -44,3 +44,6 @@ when(you come home): True
 			just for now
 	 
 ```
+
+
+back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
