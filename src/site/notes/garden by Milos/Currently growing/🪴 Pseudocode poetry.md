@@ -20,5 +20,5 @@ ABOUT THE AUTHOR:
 [[garden by Milos/Currently growing/Pseudopoetry/YAML Biography\|YAML Biography]]
 
 POEMS:
-[[garden by Milos/Currently growing/Pseudopoetry/Waiting loop\|Waiting loop]]
+[[garden by Milos/Currently growing/Pseudopoetry/waiting loop\|waiting loop]]
 [[garden by Milos/Currently growing/Pseudopoetry/while you are gone\|while you are gone]] 
