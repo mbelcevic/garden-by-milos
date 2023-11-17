@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/garden-by-milos/currently-growing/pseudopoetry/waiting-loop/"}
 ---
 
-back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
+back to [[garden by Milos/Currently growing/🪴 Pseudocode and other poetry\|🪴 Pseudocode and other poetry]] homepage
 
 # waiting loop
 
@@ -40,4 +40,4 @@ let me wait for you for a while more
 
 ```
 
-back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
+back to [[garden by Milos/Currently growing/🪴 Pseudocode and other poetry\|🪴 Pseudocode and other poetry]] homepage
