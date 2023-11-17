@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/garden-by-milos/currently-growing/pseudopoetry/while-you-are-gone/"}
 ---
 
-back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
+back to [[garden by Milos/Currently growing/🪴 Pseudocode and other poetry\|🪴 Pseudocode and other poetry]] homepage
 
 # while you are gone
 
@@ -46,4 +46,4 @@ when(you come home): True
 ```
 
 
-back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
+back to [[garden by Milos/Currently growing/🪴 Pseudocode and other poetry\|🪴 Pseudocode and other poetry]] homepage
