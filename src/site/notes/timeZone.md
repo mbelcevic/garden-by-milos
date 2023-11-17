@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/time-zone/"}
 ---
 
-back to [[garden by Milos/Currently growing/🪴 Pseudocode poetry\|🪴 Pseudocode poetry]] homepage
+back to [[garden by Milos/Currently growing/🪴 Pseudocode and other poetry\|🪴 Pseudocode and other poetry]] homepage
 
 # timeZone
 
