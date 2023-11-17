@@ -7,7 +7,7 @@
 [[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) 
 
 ---
-*Pseudopoetry Pseudocode is a project where I write poems inspired by coding and technology,
+*Pseudocode poetry* is a project where I write poems inspired by coding and technology,
 and that look like (pseudo)code. All illustrations in the book are AI-generated.
 The project started in 2021 in the winter*
 
