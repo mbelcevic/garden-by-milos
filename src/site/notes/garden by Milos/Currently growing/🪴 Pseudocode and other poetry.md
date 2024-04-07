@@ -25,3 +25,4 @@ POEMS:
 [[garden by Milos/Currently growing/Pseudopoetry/error handling\|error handling]]
 [[garden by Milos/Currently growing/Pseudopoetry/difference between us\|difference between us]]
 [[garden by Milos/Currently growing/Pseudopoetry/timeZone\|timeZone]]
+[[garden by Milos/Currently growing/Pseudopoetry/if only there is hope\|if only there is hope]]
