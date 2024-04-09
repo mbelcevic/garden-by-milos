@@ -26,3 +26,4 @@ POEMS:
 [[garden by Milos/Currently growing/Pseudopoetry/difference between us\|difference between us]]
 [[garden by Milos/Currently growing/Pseudopoetry/timeZone\|timeZone]]
 [[garden by Milos/Currently growing/Pseudopoetry/if only there is hope\|if only there is hope]]
+[[garden by Milos/Currently growing/Pseudopoetry/while moment is true\|while moment is true]]
