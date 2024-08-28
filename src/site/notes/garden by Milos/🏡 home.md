@@ -5,7 +5,7 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) 
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
 
 ---
 
@@ -18,8 +18,6 @@ explore here:
 [[garden by Milos/currently growing\|currently growing]] <- early & in progress
 
 [[garden by Milos/harvest ready\|harvest ready]] <- mature & polished content
-
-Gardening since April 2022
 
 ----
 
@@ -62,10 +60,3 @@ Gardening since April 2022
 *This is where I learn in public, plant ideas, and see them grow into something exciting.* 
 
 Learn more: [[garden by Milos/Harvest ready/digital garden\|digital garden]] 
-
-
-
-
-
-----
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
