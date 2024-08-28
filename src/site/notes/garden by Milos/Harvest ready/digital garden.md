@@ -4,7 +4,7 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) 
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
 
 ---
 
@@ -46,10 +46,3 @@ Ness Labs is run by [Anne-Laure Le Cunff](https://anne-laure.net/#), and it's a 
 
 #### - [Digital gardens let you cultivate your own little bit of the internet (MIT Technology Review)](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 
-
-
-
-
-
-----
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
