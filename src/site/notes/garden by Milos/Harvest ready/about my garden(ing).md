@@ -5,7 +5,7 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) 
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
 
 ---
 
@@ -33,12 +33,3 @@ For my private note-making I use:
 [Apple notes](https://support.apple.com/en-us/HT205773) for quick capture on the go; which I then refine and put into one of the vaults as appropriate
 
 [Goodreads](https://www.goodreads.com/author/show/15483285.Milo_Bel_evi_) to keep track over the books I have read, and want to read
-
-
-
-
-
-
-
-----
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
