@@ -18,28 +18,29 @@ In 2023, I wrote a book on applying product management to personal life. Read mo
 
 I try to write on [blog.mbelcevic.me](https://blog.mbelcevic.me/) . Check out my articles:
 
-[Flavors of Product Management and How To Develop Your Superpowers](https://blog.mbelcevic.me/flavors-of-product-management-and-how-to-develop-your-superpowers/)
-[Product Management Lessons from My Frenchie](https://blog.mbelcevic.me/product-management-tips-from-my-frenchie/)
-[3 Interesting Examples of Everyday Agility Beyond Tech](https://blog.mbelcevic.me/3-interesting-examples-of-everyday-agility-beyond-tech/)
-[🔪🩸 5 lessons on Product Management – from Dexter Morgan](https://blog.mbelcevic.me/dexter-and-product-management/)
+- [Flavors of Product Management and How To Develop Your Superpowers](https://blog.mbelcevic.me/flavors-of-product-management-and-how-to-develop-your-superpowers/)
+- [Product Management Lessons from My Frenchie](https://blog.mbelcevic.me/product-management-tips-from-my-frenchie/)
+- [3 Interesting Examples of Everyday Agility Beyond Tech](https://blog.mbelcevic.me/3-interesting-examples-of-everyday-agility-beyond-tech/)
+- [🔪🩸 5 lessons on Product Management – from Dexter Morgan](https://blog.mbelcevic.me/dexter-and-product-management/)
 
 ### Scrum Alliance Resource Library
 
 I contributed to [Scrum Alliance](https://www.scrumalliance.org/) Resource Library:
 
-[How to Manage a Large Product Backlog - 4 steps and 2 principles](https://resources.scrumalliance.org/Article/manage-large-product-backlog)
+- [How to Manage a Large Product Backlog - 4 steps and 2 principles](https://resources.scrumalliance.org/Article/manage-large-product-backlog)
 
 ### Toptal blog posts
 
 I have been published in [Toptal Product Blog](https://www.toptal.com/product-managers/blog) multiple times. Check out my articles:
 
-[Treat It Like a Product: API Management Best Practices](https://www.toptal.com/product-managers/api/api-management-best-practices)
-[The PRD Isn’t Dead: New Best Practices for Digital Product Development](https://www.toptal.com/product-managers/digital/prd-digital-product-development)
-[Learning to Learn: 5 Tips to Master Any Product Management Domain](https://www.toptal.com/product-managers/product-management/product-management-domain)
+- [Treat It Like a Product: API Management Best Practices](https://www.toptal.com/product-managers/api/api-management-best-practices)
+- [The PRD Isn’t Dead: New Best Practices for Digital Product Development](https://www.toptal.com/product-managers/digital/prd-digital-product-development)
+- [Learning to Learn: 5 Tips to Master Any Product Management Domain](https://www.toptal.com/product-managers/product-management/product-management-domain)
 
 ---
-
 ### Notes from the garden
 
 - [[garden by Milos/Harvest ready/my 12 questions\|my 12 questions]]
+- [[garden by Milos/Harvest ready/about my garden(ing)\|about my garden(ing)]]
+- [[garden by Milos/Harvest ready/digital garden\|digital garden]]
 
