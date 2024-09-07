@@ -19,6 +19,7 @@ In 2023, I wrote a book on applying product management to personal life. Read mo
 
 I try to write on [blog.mbelcevic.me](https://blog.mbelcevic.me/) . Check out my articles:
 
+[Flavors of Product Management and How To Develop Your Superpowers](https://blog.mbelcevic.me/flavors-of-product-management-and-how-to-develop-your-superpowers/)
 [Product Management Lessons from My Frenchie](https://blog.mbelcevic.me/product-management-tips-from-my-frenchie/)
 [3 Interesting Examples of Everyday Agility Beyond Tech](https://blog.mbelcevic.me/3-interesting-examples-of-everyday-agility-beyond-tech/)
 [🔪🩸 5 lessons on Product Management – from Dexter Morgan](https://blog.mbelcevic.me/dexter-and-product-management/)
