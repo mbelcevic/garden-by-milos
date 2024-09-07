@@ -14,13 +14,33 @@ August/September 2024 update:
 Working on tidying up notes and working on the garden so it best serves me and the readers.
 
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
 
 
 ---
-### ARCHIVE / OLD ITEMS FROM 2023-summer 2024
+### ARCHIVE / OLD ITEMS FROM 2023 to -summer 2024
 
 *Below are my in-progress notes, ideas and texts. 
 Links to in-progress content are always marked with `🪴`. 
