@@ -8,9 +8,10 @@
 
 ---
 
+Things that currently interest me:
 
+- Organizational resilience
 - **Minimalism beyond physical** (digital, emotional)
-- **Using NFCs to automate stuff** in my home and around
-- **Python**
 - **Low- / no-code**; **automation** through Zapier or n8n
-- **Note-taking & note-making**, digital gardening, [[garden by Milos/Currently growing/🪴 writing a book 🪴\|🪴 writing a book 🪴]]
+- Python
+- **Note-taking & note-making**, digital gardening
