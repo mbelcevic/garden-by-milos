@@ -38,3 +38,8 @@ I have been published in [Toptal Product Blog](https://www.toptal.com/product-ma
 [Learning to Learn: 5 Tips to Master Any Product Management Domain](https://www.toptal.com/product-managers/product-management/product-management-domain)
 
 ---
+
+### Notes from the garden
+
+- [[garden by Milos/Harvest ready/my 12 questions\|my 12 questions]]
+
