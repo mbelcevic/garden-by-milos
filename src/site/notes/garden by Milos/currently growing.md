@@ -4,14 +4,14 @@
 
 
 ---
-[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) | [newsletter/book](https://mbelcevic.me/BuildYourWay.html) | [contact](https://mbelcevic.me/Contact.html)
+[[garden by Milos/🏡 home\|🏡 home]] | [[garden by Milos/currently growing\|currently growing]] | [[garden by Milos/harvest ready\|harvest ready]] | [mbelcevic.me](https://mbelcevic.me/) 
 
 ---
 
 # 🍂 Autumn Cleaning 2024 🍂
 
-28 aug '24 update:
-*Main project for the rest of the year regarding the garden is Autumn Cleaning - tidying up notes and working on the garden so it best serves me and the readers.*
+August/September 2024 update:
+Working on tidying up notes and working on the garden so it best serves me and the readers.
 
 
 
