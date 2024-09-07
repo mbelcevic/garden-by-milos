@@ -18,6 +18,8 @@ Welcome to my digital garden, where I plant ideas and see them grow into somethi
 - In-progress content -> [[garden by Milos/currently growing\|currently growing]] 
 - What is a digital garden? -> [[garden by Milos/Harvest ready/digital garden\|digital garden]] 
 - [[garden by Milos/About me 👷\|About me 👷]] 
+- [[garden by Milos/Harvest ready/about my garden(ing)\|about my garden(ing)]]
+- About digital gardens -> [[garden by Milos/Harvest ready/digital garden\|digital garden]]
 
 ----
 
