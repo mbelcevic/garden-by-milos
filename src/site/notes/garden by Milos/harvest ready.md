@@ -18,6 +18,7 @@ In 2023, I wrote a book on applying product management to personal life. Read mo
 
 I try to write on [blog.mbelcevic.me](https://blog.mbelcevic.me/) . Check out my articles:
 
+- [Starting from Where You Want to Be (Working Backwards Model)](https://blog.mbelcevic.me/starting-from-where-you-want-to-be-working-backwards-model/)
 - [Flavors of Product Management and How To Develop Your Superpowers](https://blog.mbelcevic.me/flavors-of-product-management-and-how-to-develop-your-superpowers/)
 - [Product Management Lessons from My Frenchie](https://blog.mbelcevic.me/product-management-tips-from-my-frenchie/)
 - [3 Interesting Examples of Everyday Agility Beyond Tech](https://blog.mbelcevic.me/3-interesting-examples-of-everyday-agility-beyond-tech/)
